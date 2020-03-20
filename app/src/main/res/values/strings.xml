@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aflamy</string>
+
+    <string name="release_id">Release Date:</string>
+    <string name="title_id">Title:</string>
+    <string name="vote_id">Vote Average:</string>
+    <string name="overview_id">Overview: </string>
+    <string name="error_msg">Error loading data</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="review">Review:</string>
+    <string name="sort_favorite">Sort Favourites</string>
+    <string name="trailers">Trailers :</string>
+</resources>
